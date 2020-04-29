@@ -1,3 +1,6 @@
+![Downloads](https://img.shields.io/badge/downloads-74M-brightgreen)
+![Art is a lie, nothing is real](https://img.shields.io/badge/art%20is%20a%20lie-nothing%20is%20real-orange)
+
 # vimfiles
 > For when you're tired of synchronizing your vim setup across three machines.
 
