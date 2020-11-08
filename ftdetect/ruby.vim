@@ -1,1 +1,2 @@
 au BufNewFile,BufRead *.rb set filetype=ruby
+au BufNewFile,BufRead Podfile set filetype=ruby
