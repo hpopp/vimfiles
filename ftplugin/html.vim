@@ -5,5 +5,4 @@ set tabstop=2
 
 if executable('prettier')
   autocmd BufWritePost *.html silent :!prettier --write --loglevel=silent %
-  autocmd BufWritePost *.html.eex silent :!prettier --write --parser html --loglevel=silent %
 endif
