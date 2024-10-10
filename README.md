@@ -1,9 +1,11 @@
-![Downloads](https://img.shields.io/badge/downloads-74M-brightgreen)
-![Art is a lie, nothing is real](https://img.shields.io/badge/art%20is%20a%20lie-nothing%20is%20real-orange)
-
 # vimfiles
 
 > For when you're tired of synchronizing your vim setup across three machines.
+
+[![CI](https://github.com/hpopp/vimfiles/actions/workflows/ci.yml/badge.svg)](https://github.com/hpopp/vimfiles/actions/workflows/ci.yml)
+![Downloads](https://img.shields.io/badge/downloads-74M-brightgreen)
+![Art is a lie, nothing is real](https://img.shields.io/badge/art%20is%20a%20lie-nothing%20is%20real-orange)
+[![Documentation](https://img.shields.io/badge/documentation-gray)](https://google.com/)
 
 ## Who is this for?
 
