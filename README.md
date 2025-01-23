@@ -32,6 +32,6 @@ to pull the latest master.
 
 ## License
 
-Copyright (c) 2020-2024 Henry Popp.
+Copyright (c) 2020-2025 Henry Popp.
 
 This library is MIT licensed. See the [LICENSE](https://github.com/hpopp/vimfiles/blob/master/LICENSE) for details.

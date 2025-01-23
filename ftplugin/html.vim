@@ -4,5 +4,5 @@ set softtabstop=2
 set tabstop=2
 
 if executable('prettier')
-  autocmd BufWritePost *.html silent :!prettier --write --log-level=silent %
+  "autocmd BufWritePost *.html silent :!prettier --write --log-level=silent %
 endif
